@@ -1,0 +1,35 @@
+<html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul id="reseaux">
+<li>
+<a href="https://www.facebook.com/" id="lien1">Facebook</a></li>
+<li>
+<a href="https://twitter.com/" id="lien2">Twitter</a></li>
+<li><a href="https://github.com/" id="lien3">GitHub</a></li></ul>
+
+
+<div id="rectangle0">
+	<h4 id="ab">NOUVELLE EDITION ABONNES</h4>
+	<p><span id="zero"><strong>O<span id"euro"><sup>€</strong></sup></span></span><span id="le">le 1er mois</span></p>
+	<p><a href="#" id="REC">JE DECOUVRE</a></p>
+</div>
+
+
+<p class="obs">SUBLIMEZ</p>
+
+
+</hmtl>
